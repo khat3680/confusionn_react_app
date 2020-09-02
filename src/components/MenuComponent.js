@@ -24,7 +24,7 @@ import { Card, CardImg, CardImgOverlay, CardTitle } from 'reactstrap';
                 </div> 
             );
         });
-            
+            
         return (
             <div className="container">
                 <div className="row">
